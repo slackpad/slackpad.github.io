@@ -4,8 +4,18 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I'm a programmer living in Los Angeles working on rockets and spacecraft, married and raising two kids, and trying to make a decent enough living to settle at the beach.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+Here are some places to find me online:
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+ * [Github](https://github.com/slackpad)
+ * [LinkedIn](https://www.linkedin.com/in/phillipsjamesr)
+ * [Facebook](https://www.facebook.com/slackpad)
+ * [Twitter](https://twitter.com/slackpad)
+ * [Google+](https://plus.google.com/105505551535691675728/posts)
+ * [YouTube](http://www.youtube.com/slackpad)
+
+Here are some small side projects you might want to check out:
+
+ * [HashtagTodo](https://www.hashtagtodo.com/)
+ * [Off Road Blog](http://iheart395.blogspot.com/)
