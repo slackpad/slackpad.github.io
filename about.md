@@ -15,7 +15,7 @@ Here are some places to find me online:
  * [Google+](https://plus.google.com/105505551535691675728/posts)
  * [YouTube](http://www.youtube.com/slackpad)
 
-Here are some small side projects you might want to check out:
+I don't have a ton of free time but here are a few side projects that I try to keep active:
 
- * [HashtagTodo](https://www.hashtagtodo.com/)
- * [Off Road Blog](http://iheart395.blogspot.com/)
+ * [HashtagTodo](https://www.hashtagtodo.com/) - Manage your todo list inside Google Calendar
+ * [Off Road Blog](http://iheart395.blogspot.com/) - Maps and photos from off road trips around California
