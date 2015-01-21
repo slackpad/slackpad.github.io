@@ -1,19 +1,23 @@
-<head>
-  <title>slackpad.com</title>
-</head>
+---
+layout: default
+---
 
-<body>
-  James Phillips
-  | <a href="mailto:slackpad@gmail.com">slackpad@gmail.com</a>
-  | 310-363-5423
-  <ul>
-    <li><a href="https://github.com/slackpad">github</a></li>
-    <li><a href="http://iheart395.blogspot.com/">off road blog</a></li>
-    <li><a href="http://www.linkedin.com/pub/james-phillips/3/311/5a2">linkedin</a></li>
-    <li><a href="https://plus.google.com/105505551535691675728/posts">google+</a></li>
-    <li><a href="http://www.youtube.com/slackpad">youtube</a></li>
-    <li><a href="https://twitter.com/slackpad">twitter</a></li>
-    <li><a href="https://www.facebook.com/slackpad">facebook</a></li>
-    <li><a href="https://www.hashtagtodo.com">hashtagtodo</a></li>
+<div class="home">
+
+  <h1 class="page-heading">Posts</h1>
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
   </ul>
-</body>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>
