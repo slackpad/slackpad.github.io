@@ -18,4 +18,3 @@ Here are some places to find me online:
 I don't have a ton of free time but here are a few side projects that I try to keep active:
 
  * [HashtagTodo](https://www.hashtagtodo.com/) - Manage your todo list inside Google Calendar
- * [Off Road Blog](http://iheart395.blogspot.com/) - Maps and photos from off road trips around California
