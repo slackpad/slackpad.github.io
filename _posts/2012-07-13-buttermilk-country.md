@@ -1,13 +1,12 @@
 ---
 layout: post
 title:  "Off Road Near Highway 395: Buttermilk Country"
-date:   2013-01-24
 categories: travel california offroad iheart395
 ---
 
 The Buttermilk Country drive starts West of Bishop and does a large loop around Grouse Mountain. This was my first tour (#23 from [Sierra Nevada Byways](http://www.amazon.com/dp/B004RV4GI0/ref=as_sl_pd_tf_lc?tag=slackpadcom-20&camp=14573&creative=327641&linkCode=as1&creativeASIN=B004RV4GI0&adid=1KF5KT3HTVRHK26XXSNN)) and took just under three hours to complete. Overall the trail was pretty easy, though towards the end there was a very small stream to cross and a few branches that scraped the sides of the truck a bit. The weather was quite gloomy but the views of the Sierras were stunning and there were some interesting features along the way.
 
-<iframe frameborder="0" height="480" marginheight="0" marginwidth="0" scrolling="no" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=http:%2F%2Fwww.slackpad.com%2Fassets%2Fiheart395%2Fmaps%2Fbuttermilk_country.kml&amp;aq=&amp;sll=37.0625,-95.677068&amp;sspn=82.939223,113.642578&amp;t=h&amp;ie=UTF8&amp;ll=37.305737,-118.564281&amp;spn=0.06554,0.109863&amp;z=13&amp;output=embed" width="640"></iframe>
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=zCZZxrWa0lZk.kJ9q5GM-0_OE" width="640" height="480"></iframe>
 
 [Download a kml file with a detailed GPS track of the trip](/assets/iheart395/maps/buttermilk_country.kml)
 
