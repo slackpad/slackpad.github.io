@@ -4,10 +4,11 @@ title: About
 permalink: /about/
 ---
 
-I'm a programmer living in Los Angeles working on rockets and spacecraft, married and raising two kids, and trying to make a decent enough living to settle at the beach.
+I'm James Phillips: a programmer living in Los Angeles working on rockets and spacecraft, married and raising two kids, and trying to make a decent enough living to settle at the beach.
 
 Here are some places to find me online:
 
+ * slackpad@gmail.com / 310-363-5423
  * [Github](https://github.com/slackpad)
  * [LinkedIn](https://www.linkedin.com/in/phillipsjamesr)
  * [Facebook](https://www.facebook.com/slackpad)
