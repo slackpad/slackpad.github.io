@@ -19,3 +19,4 @@ Here are some places to find me online:
 I don't have a ton of free time but here are a few side projects that I try to keep active:
 
  * [HashtagTodo](https://www.hashtagtodo.com/) - Manage your todo list inside Google Calendar
+ * [SlackCraft](http://mc.slackpad.com) - Cloud-hosted Minecraft server for the kids
