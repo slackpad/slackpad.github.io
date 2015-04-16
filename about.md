@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'm James Phillips: a programmer living in Los Angeles, married and raising two kids, and trying to make a decent enough living to be near the beach.
+I'm James Phillips: a programmer living in Los Angeles, married and raising two kids, trying to make a decent enough living to be near the beach.
 
 Here are some places to find me online:
 
