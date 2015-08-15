@@ -31,6 +31,8 @@ Rolling events forward is done using the Google App Engine cron facility, where 
 HashtagTodo
 -----------
 
-We've got a small but growing set of users, and some people have really starting managing their life with this simple app. My wife and I often drop a `#todo` on each other's calendars, and I use it for all things that I absolutely must not lose track of. We hope this app is useful to people and that it continues to be discovered by folks who live by their Google Calendars.
+We've got a small but growing set of users, and some people are totally managing their life with this simple app. My wife and I often drop a `#todo` on each other's calendars, and I use it for all things that I absolutely must not lose track of.
+
+We hope this app is useful to people and that it continues to be discovered by folks who live by their Google Calendars.
 
 Check it out - [HashtagTodo](https://www.hashtagtodo.com/index.html).
