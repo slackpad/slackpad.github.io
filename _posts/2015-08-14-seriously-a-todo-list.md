@@ -11,7 +11,7 @@ A while ago a friend set me up for lunch with a person he had met at a mixer. Th
 
 He had put a lot of thought into why there are so many todo list apps and came to the conclusion that people start excited about them but since it's another place you need to look every day they kind of fall out of mind and stop using them. He and his wife had been hacking their Google Calendar as a todo list, adding simple `[ ]` check boxes to regular calendar events, and manually dragging them forward if they didn't get done. My wife does this too, minus the check boxes, so it seemed familiar. I pointed out that Google Calendar already has a built in todo list, but we spent a few minutes playing with it and realized how bad it was (and it's another place you need to look). His idea for the app was basically something that would move todo events forward if you didn't mark them off.
 
-I was interested enough to shake hands and partner up; it seemed like kind of a fun side project.
+I was interested enough to shake hands and partner up; it seemed like a fun side project.
 
 _tl;dr: if you are curious and want to see the final product, check out [HashtagTodo](https://www.hashtagtodo.com/index.html)_.
 
