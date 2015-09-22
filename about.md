@@ -9,6 +9,7 @@ I'm James Phillips: a programmer living in Los Angeles, married and raising two 
 Here are some places to find me online:
 
  * slackpad@gmail.com / 310-363-5423
+ * [Keybase](https://keybase.io/slackpad)
  * [Github](https://github.com/slackpad)
  * [LinkedIn](https://www.linkedin.com/in/phillipsjamesr)
  * [Facebook](https://www.facebook.com/slackpad)
