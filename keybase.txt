@@ -1,0 +1,71 @@
+==================================================================
+https://keybase.io/slackpad
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.slackpad.com
+  * I am slackpad (https://keybase.io/slackpad) on keybase.
+  * I have a public key with fingerprint 341A 925E B454 13DF AC9C  A866 7718 3E68 2AC5 FC11
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.8.20"
+        },
+        "key": {
+            "eldest_kid": "010105e59ead8e94728887bb4cdd469ba811490daf2e7c18cb00f0df04269e3584300a",
+            "fingerprint": "341a925eb45413dfac9ca86677183e682ac5fc11",
+            "host": "keybase.io",
+            "key_id": "77183e682ac5fc11",
+            "kid": "010105e59ead8e94728887bb4cdd469ba811490daf2e7c18cb00f0df04269e3584300a",
+            "uid": "b29d0098757e7ef8ba13d3ba105c7719",
+            "username": "slackpad"
+        },
+        "service": {
+            "hostname": "www.slackpad.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1442940636,
+    "expire_in": 157680000,
+    "prev": "cef003c7e8631572e7a6b45832584edc63462f5b82f82a3fe26511243fe45b4c",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owGtkm1IFEEYx+80LYPAwFLpothMIY5z9n3WDxZRQdgXe9EM85qdnT3Xu9u97lav
+y0QoyF7JyOpDJBXoF6WkDC2koigslUQtFSpSqCgqgiIIpZoVDYI+tgvLsM/v/8z/
++c80Lkp2JbnjWYWVax5OL3b3vVddJe7DL2oZ1dISTEEtg0MGMW1nZaIwYQqYIEmo
+KEZ8hrXStDTiq4qtnGW8TA2JxgzLpBTwQR8HmDqvwztqEtJIzPYHDc2psvQViagQ
+pEGiCDIHIZRVVcCaJkiKiiDLCgrQkM4RGbMQqwDoQNOBwEkK4UUo8AAguqFumAES
+jUQNxyLDCyxSOJGogiiwvKYjrGAEJUmWWcgTCXIIizpmWSqstGL2X8MwM079M/b+
+wf9n39Uz7VRO0QBQoCzKRCY6VBF1zdMvEDH1oDhgjERng4+FEA5GkOaESv/WGJg4
+wTqTzBLxeNw3R/mwFab6SNSyLWyFaLXStiMFjthORGZoovpn+/hVw9RolFRw4c8Z
+shTFtuF0ZgWBUwQg8ZKXIfsiRpT4DYcQZQkC+jj7kBraExMdAB7LBEo8rdIUkERP
+A/IcnZ1oWOIFidNFFXI6TZfXCSeJLMsJdCWINEbGGW2vaTEFAvWJAs7YRsBEdnWU
+MHVH3Z55LneSKzUlybmkroVp6XM3d3v7/J85WSXe861Pc7hiT2JD/+olvz7vTMGn
+jn4//qCdL1uwYtFodmdhWc/QLk9V06c3Xdv5ocP3Op43jjdvKl9aXIXUZ3c6kjtI
+YFU4OxBs68/LDTUYE28/jkz2ru9+PFJf1DBeOnBy5w0ms689+qji9v5lIwc/TV6a
+GjuTPVAe7K5oflLaNZx3pbblx9eLZ258mb8xkHd/z4SeOxX+nPLSlVl/+l3ajtam
+wSO7xd7L3159yS8/3fBgcOx1XuLI6ImMFu90bvnmu+npH35M3rK3GmUXUm+u+1p0
+LO3sYP708Hkzw1x79Wz6ls4DnkPX9wBmfIRrvN92qHng2rYe0tj/dnktOif3u38D
+=Koa+
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/slackpad
+
+==================================================================
