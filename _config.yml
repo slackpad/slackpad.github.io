@@ -2,7 +2,7 @@
 title: The Slack Pad
 email: slackpad@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Random thoughts about various things.
+  Random thoughts about various things. Neglected blog of James Phillips.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.slackpad.com" # the base hostname & protocol for your site
 twitter_username: slackpad
